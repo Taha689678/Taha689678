@@ -162,7 +162,7 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=Taha689678&icon=5&color=3&style=for-the-badge)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=Taha689678&icon=5&color=8b5cf6&style=for-the-badge)](https://visitcount.itsvg.in)
 
 </div>
 
