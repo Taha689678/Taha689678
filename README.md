@@ -141,20 +141,16 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Taha689678&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Taha689678&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
 </div>
 
 ## 🐍 Contribution Snake (3D animated)
 
 <div align="center">
 
-<!-- Requires the "Snake" GitHub Action set up on your profile repo to render live.
-     Setup guide: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/Taha689678/Taha689678/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 
 </div>
-
-> ⚙️ To make the snake above animate for real, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo — it auto-generates `github-contribution-grid-snake.svg` from your contribution graph and updates it daily.
 
 <br/>
 
