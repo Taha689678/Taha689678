@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20there%2C%20I%27m%20Taha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20there%2C%20I%27m%20Taha%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://linkedin.com/in/maliktaha">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -146,12 +146,16 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 
 ## 🐍 Contribution Snake (3D animated)
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Taha689678/Taha689678/output/github-contribution-grid-snake.svg"
-    alt="GitHub contribution snake animation"
-  />
-</p>
+<div align="center">
+
+<!-- Requires the "Snake" GitHub Action set up on your profile repo to render live.
+     Setup guide: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/Taha689678/Taha689678/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
+
+> ⚙️ To make the snake above animate for real, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo — it auto-generates `github-contribution-grid-snake.svg` from your contribution graph and updates it daily.
+
 <br/>
 
 ### ✍️ Random Dev Quote
