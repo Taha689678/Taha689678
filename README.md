@@ -146,16 +146,12 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 
 ## 🐍 Contribution Snake (3D animated)
 
-<div align="center">
-
-<!-- Requires the "Snake" GitHub Action set up on your profile repo to render live.
-     Setup guide: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/Taha689678/Taha689678/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-</div>
-
-> ⚙️ To make the snake above animate for real, add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to this repo — it auto-generates `github-contribution-grid-snake.svg` from your contribution graph and updates it daily.
-
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Taha689678/Taha689678/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution snake animation"
+  />
+</p>
 <br/>
 
 ### ✍️ Random Dev Quote
