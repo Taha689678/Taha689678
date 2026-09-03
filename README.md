@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=800&lines=Software+Engineering+Student+%40+COMSATS;Building+Cartify+%E2%80%94+Multi-Vendor+E-Commerce+Platform;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=950&lines=Software+Engineering+Student+%40+COMSATS;Building+Cartify+%E2%80%94+Multi-Vendor+E-Commerce+Platform;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -94,8 +94,6 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 </table>
 
 </div>
-
-> 💡 Replace the placeholder cards above with your real projects — swap the title, description, tech badges, and the `#` links for your live demo & repo URLs.
 
 <br/>
 
