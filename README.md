@@ -136,6 +136,36 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 
 </div>
 
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Taha689678&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
+</div>
+
+## 🐍 Contribution Snake (3D animated)
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Taha689678/Taha689678/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
+</div>
+
+> ⚙️ This only renders once you add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to your `Taha689678/Taha689678` repo — it generates `github-contribution-grid-snake.svg` on the `output` branch from your contribution graph and refreshes it daily. Until that Action runs at least once, this image will show broken.
+
+<br/>
+
+### ✍️ Random Dev Quote
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+</div>
+
+### 🔝 Top Contributed Repo
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Taha689678&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+</div>
+
 <br/>
 
 <div align="center">
@@ -144,4 +174,4 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) — enhanced with readme-typing-svg -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) — enhanced with readme-typing-svg & snk -->
