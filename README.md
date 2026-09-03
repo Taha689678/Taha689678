@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Hi%20there%2C%20I%27m%20Taha%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20AI%20Engineer%20in%20the%20making&descAlignY=55&descSize=18" width="100%"/>
+# Hi there, I'm Taha 👋
 
 <a href="https://linkedin.com/in/maliktaha">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -175,8 +175,6 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=Taha689678&icon=5&color=3&style=for-the-badge)](https://visitcount.itsvg.in)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
 
 </div>
 
