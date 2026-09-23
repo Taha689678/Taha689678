@@ -27,9 +27,9 @@
 
 I'm a Software Engineering student at **COMSATS University Islamabad**, focused on full-stack and AI-powered web development. I enjoy turning ideas into functional, responsive, and scalable applications — mainly across the **JavaScript ecosystem** (React, Next.js, Node.js, Express, MongoDB).
 
-- 🔭 Currently building **Cartify** — a multi-vendor e-commerce marketplace with auth, product management, cart, checkout, payments, seller dashboards, and admin tools
-- 🌱 Currently deepening my skills in Advanced Next.js, React Native, secure API design, and AI integrations
-- ⚡ Interests: Full-Stack Development · Software Architecture · E-Commerce Systems · RESTful APIs · Scalable Web Apps · Flutter & Laravel
+* 🔭 Currently building **Cartify** — a multi-vendor e-commerce marketplace with auth, product management, cart, checkout, payments, seller dashboards, and admin tools
+* 🌱 Currently deepening my skills in Advanced Next.js, React Native, secure API design, and AI integrations
+* ⚡ Interests: Full-Stack Development · Software Architecture · E-Commerce Systems · RESTful APIs · Scalable Web Apps · Flutter & Laravel
 
 <br/>
 
@@ -52,46 +52,11 @@ I'm a Software Engineering student at **COMSATS University Islamabad**, focused 
         <a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📌 Project Placeholder 2</h3>
-      <p align="center"><i>Short one-line description of what this project does</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Tech-1-informational?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-2-informational?style=flat-square"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=vercel&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📌 Project Placeholder 3</h3>
-      <p align="center"><i>Short one-line description of what this project does</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Tech-1-informational?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-2-informational?style=flat-square"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=vercel&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📌 Project Placeholder 4</h3>
-      <p align="center"><i>Short one-line description of what this project does</i></p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Tech-1-informational?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Tech-2-informational?style=flat-square"/>
-      </p>
-      <p align="center">
-        <a href="#"><img src="https://img.shields.io/badge/Live%20Demo-000?style=flat-square&logo=vercel&logoColor=white"/></a>
-        <a href="#"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white"/></a>
-      </p>
-    </td>
   </tr>
 </table>
+
+</div>
+
 
 </div>
 
